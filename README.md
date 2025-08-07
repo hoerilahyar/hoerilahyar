@@ -16,7 +16,7 @@
      |  _  | |_| | |___|  _ < | || |___   / ___ \|  _  | | |/ ___ \|  _ < 
      |_| |_|\___/|_____|_| \_\___|_____| /_/   \_\_| |_| |_/_/   \_\_| \_\
 
-           back-End Developer • Jakarta • Freelance Open-Sourcerer
+           back-End Developer • Jakarta-Bandung • Freelance Open-Sourcerer
 
 ❯ 📬 Email             hoeril.ahyar@hotmail.com
 ❯ 💾 GitHub            github.com/hoerilahyar
