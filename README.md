@@ -22,9 +22,16 @@
 ❯ 💾 GitHub            github.com/hoerilahyar
 ❯ 💼 LinkedIn:         linkedin.com/in/hoeril-ahyar
 
-🛠 Tech Stack
-❯ Languages: Go, PHP (Laravel), JavaScript, Python
-❯ Databases: Oracle, MySQL, PostgreSQL, Redis, MongoDB
-❯ Tools: Docker, Git, NGINX, Firebase
-❯ DevOps: CI/CD, Linux, Nginx, GitHub Actions
+🛠 Tech Stack  
+❯ Languages: Go, PHP (Laravel), JavaScript (Node.js), Python, Bash  
+❯ Databases: Oracle, MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch  
+❯ Message Brokers: RabbitMQ, Apache Kafka  
+❯ Tools: Docker, Git, Firebase, Postman, Swagger, Insomnia  
+❯ Web Servers: NGINX, Apache  
+❯ DevOps & Ops: CI/CD (GitHub Actions, GitLab CI), Linux (Ubuntu, CentOS), PM2, Supervisor  
+❯ APIs & Protocols: REST API, gRPC, WebSocket, FCM  
+❯ Testing: PHPUnit, Go test, Postman, Swagger Validator  
+❯ Architecture: Microservices, Monolith, Event-driven Architecture, Message Queue  
+❯ Monitoring & Logging: Grafana, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), Sentry  
+❯ Project Management: Jira, Trello, Notion, Slack  
 ```
